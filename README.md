@@ -16,7 +16,7 @@ npm start
 
 4. Click the checkout button to be redirected to the Stripe Checkout page.
 
-5. If 100 books have already been bought, the user will be redirected to [http://localhost:4242/error.html](http://localhost:4242/error.html) and told the book is out of stock.
+5. If 100 books have already been bought, the user will be redirected to [http://localhost:4242/error.html](http://localhost:4242/error.html) and be told that the book is out of stock.
 
 6. If there is inventory, the user can select the quanitity and enter their name, email, card, and address. (Use test card 4242424242424242 to simulate succesful payment)
 
