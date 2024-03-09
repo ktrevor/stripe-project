@@ -12,7 +12,7 @@ npm install
 npm start
 ~~~
 
-3. For book store go to [http://localhost:4242/checkout.html](http://localhost:4242/checkout.html)
+3. For the book store go to [http://localhost:4242/checkout.html](http://localhost:4242/checkout.html)
 
 4. Click the checkout button to be redirected to the Stripe Checkout page.
 
