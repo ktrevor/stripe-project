@@ -1,4 +1,4 @@
-# Running the bookstore code
+# Running Kate's book store
 
 1. Build the server
 
