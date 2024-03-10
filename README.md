@@ -1,5 +1,7 @@
 # Running Kate's book store
 
+For video demo go to [https://youtu.be/AvGQzM1WfaA](https://youtu.be/AvGQzM1WfaA)
+
 1. Build the server
 
 ~~~
